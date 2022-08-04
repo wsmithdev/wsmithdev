@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)](https://www.williamsmithdev.com)
 <h1 align="center">Hi 👋, I'm Will</h1>
 <h3 align="center">A Software Developer with a 6-year background in Control Systems / Automation Engineering.</h3>
 
