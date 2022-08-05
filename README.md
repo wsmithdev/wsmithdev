@@ -1,3 +1,4 @@
+[![MasterHead](https://res.cloudinary.com/dulra2azo/image/upload/v1659670871/Component_2_4_ncbc6y.gif)](https://www.williamsmithdev.com)
 <h1 align="center">Hi 👋, I'm Will</h1>
 <h3 align="center">A Software Developer with a 6-year background in Control Systems / Automation Engineering.</h3>
 
